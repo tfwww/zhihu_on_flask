@@ -1,0 +1,551 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"red",
+				"render_template	function"
+			],
+			[
+				"A",
+				"A	class"
+			],
+			[
+				"C",
+				"C"
+			],
+			[
+				"cu",
+				"currentThread	statement"
+			],
+			[
+				"get",
+				"get_event_loop	function"
+			],
+			[
+				"e",
+				"else	keyword"
+			],
+			[
+				"x",
+				"xb7"
+			],
+			[
+				"abc",
+				"abcd--__"
+			],
+			[
+				"ur",
+				"urlsafe_b64decode	function"
+			],
+			[
+				"urlsaf",
+				"urlsafe_b64encode	function"
+			],
+			[
+				"tz",
+				"tz_utc_8	statement"
+			],
+			[
+				"fr",
+				"fromtimestamp	function"
+			],
+			[
+				"date",
+				"datetime	class"
+			],
+			[
+				"ser",
+				"server_addr	statement"
+			],
+			[
+				"Que",
+				"QueueManager	class"
+			],
+			[
+				"pro",
+				"process_thread"
+			],
+			[
+				"ra",
+				"random	statement"
+			],
+			[
+				"dump",
+				"dumps	function"
+			],
+			[
+				"python",
+				"Python3"
+			],
+			[
+				"re",
+				"resolution"
+			],
+			[
+				"de",
+				"de_three"
+			],
+			[
+				"conne",
+				"connect_db	function"
+			],
+			[
+				"v",
+				"validate_on_submit"
+			],
+			[
+				"Pass",
+				"PasswordField	import"
+			],
+			[
+				"login",
+				"login_user	import"
+			],
+			[
+				"paw",
+				"password_hash	statement"
+			],
+			[
+				"MA",
+				"manager	statement"
+			],
+			[
+				"app",
+				"app_context"
+			],
+			[
+				"Mi",
+				"MigrateCommand	import"
+			],
+			[
+				"send",
+				"send_email	function"
+			],
+			[
+				"FLA",
+				"FLASKY_ADMIN"
+			],
+			[
+				"make",
+				"make_shell_context	function"
+			],
+			[
+				"shell",
+				"Shell	import"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 338.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"git:init",
+				"Git: Init"
+			],
+			[
+				"git:sta",
+				"Git: Status"
+			],
+			[
+				"git:st",
+				"Git: Status"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"git:",
+				"Git: Init"
+			],
+			[
+				"git:push",
+				"Git: Push"
+			],
+			[
+				"git:pu",
+				"Git: Push"
+			],
+			[
+				"git:stat",
+				"Git: Status"
+			],
+			[
+				"git:com",
+				"Git: Commit"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git:df",
+				"Git: Diff Current File"
+			],
+			[
+				"git:co",
+				"Git: Commit"
+			],
+			[
+				"git:s",
+				"Git: Status"
+			],
+			[
+				"git:add",
+				"Git: Add Current File"
+			],
+			[
+				"git:c",
+				"Git: Commit"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git:pull ",
+				"Git: Pull"
+			],
+			[
+				"git:in",
+				"Git: Init"
+			],
+			[
+				"git:remoe",
+				"Git: Remote"
+			],
+			[
+				"git:a",
+				"Git: Add Remote"
+			],
+			[
+				"git:p",
+				"Git: Push Current Branch"
+			],
+			[
+				"git:stats",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"git ",
+				"Git: Init"
+			],
+			[
+				"vir",
+				"Virtualenv: Remove"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"up\\",
+				"Package Control: Upgrade/Overwrite All Packages"
+			]
+		],
+		"width": 475.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Wunmin/Documents/ZhiHu/app/main/views.py",
+		"/Users/Wunmin/Desktop/flask-0.1/flask.py",
+		"/Users/Wunmin/Desktop/test.py",
+		"/Users/MinMin/Desktop/test.py",
+		"/Users/MinMin/Library/Application Support/Sublime Text 3/Packages/User/Package Control.system-ca-bundle",
+		"/Users/MinMin/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/MinMin/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/Users/MinMin/Documents/Python Training/PictureWithNumber/test.py",
+		"/Users/MinMin/Documents/Python Training/PictureWithNumber/pictureWithNumber.py",
+		"/Users/MinMin/Documents/Python Training/PictureWithNumber/pictureWithNumber",
+		"/Users/MinMin/Downloads/awesome-python3-webapp-day-03/www/orm.py",
+		"/Users/MinMin/Documents/GitHub Open Source/python3-webapp/untitled",
+		"/Users/MinMin/Desktop/Python3/test.html",
+		"/Users/MinMin/Desktop/Python3/hello.py",
+		"/Users/MinMin/Desktop/Python3/server.py",
+		"/Users/MinMin/Desktop/Python3/app.py",
+		"/Users/MinMin/Desktop/Python3/cor.py",
+		"/Users/MinMin/Desktop/Python3/task_worker.py",
+		"/Users/MinMin/Desktop/Python3/task_master.py",
+		"/Users/MinMin/Desktop/Python3/thread.py",
+		"/Users/MinMin/Desktop/Python3/process.py",
+		"/Users/MinMin/Desktop/Python3/mydict_test.py",
+		"/Users/MinMin/Desktop/Python3/mydict2.py",
+		"/Users/MinMin/Desktop/Python3/mydict.py",
+		"/Users/MinMin/Desktop/Python3/err_raise.py",
+		"/Users/MinMin/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/MinMin/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/MinMin/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/MinMin/Desktop/Python3/err.py",
+		"/Users/MinMin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/MinMin/Desktop/flask-0.1/examples/minitwit/static/style.css",
+		"/Users/MinMin/Desktop/flask-0.1/examples/flaskr/flaskr.py",
+		"/Users/MinMin/Documents/Flaskr/flaskr.py",
+		"/Users/MinMin/Documents/Flaskr/templates/show_entries.html",
+		"/Users/MinMin/Documents/Flaskr/static/style.css",
+		"/Users/MinMin/Documents/Flaskr/templates/login.html",
+		"/Users/MinMin/Documents/Flaskr/templates/layout.html",
+		"/Users/MinMin/Documents/Flaskr/schema.sql",
+		"/Users/MinMin/Downloads/flasky-2bf7718df37f076e80a01ea67772fe917d09bdc3/app/templates/auth/register.html",
+		"/Users/MinMin/Downloads/flasky-7a/app/__init__.py",
+		"/Users/MinMin/Downloads/flasky-7a/app/templates/auth/login.html",
+		"/Users/MinMin/Downloads/flasky-7a/app/auth/forms.py",
+		"/Users/MinMin/Downloads/flasky-7a/app/models.py",
+		"/Users/MinMin/Downloads/flasky-7a/app/auth/__init__.py",
+		"/Users/MinMin/Downloads/flasky-7a/app/auth/views.py",
+		"/Users/MinMin/Downloads/flasky-7a/app/templates/index.html",
+		"/Users/MinMin/Downloads/flasky-7a/app/templates/base.html",
+		"/Users/MinMin/Downloads/flasky-7a/tests/test_user_model.py",
+		"/Users/MinMin/Downloads/flasky-7a/manage.py",
+		"/Users/MinMin/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/MinMin/Desktop/hello flask/app/templates/404.html",
+		"/Users/MinMin/Desktop/hello flask/app/templates/user.html",
+		"/Users/MinMin/Desktop/hello flask/app/templates/base.html",
+		"/Users/MinMin/Desktop/hello flask/config.py",
+		"/Users/MinMin/Desktop/hello flask/app/templates/index.html",
+		"/Users/MinMin/Desktop/hello flask/tests/test_basics.py",
+		"/Users/MinMin/Desktop/hello flask/manage.py",
+		"/Users/MinMin/Desktop/hello flask/app/models.py",
+		"/Users/MinMin/Desktop/hello flask/app/main/views.py",
+		"/Users/MinMin/Desktop/hello flask/app/__init__.py",
+		"/Users/MinMin/Desktop/hello flask/app/hello.py",
+		"/Users/MinMin/Desktop/hello flask/app/main/errors.py",
+		"/Users/MinMin/Desktop/hello flask/app/main/__init__.py",
+		"/Users/MinMin/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/MinMin/Desktop/hello flask/app/templates/500.html",
+		"/Users/MinMin/Desktop/hello flask/hello.py",
+		"/Users/MinMin/Desktop/hello/hello.py",
+		"/Users/MinMin/Desktop/hello.py",
+		"/Users/MinMin/Desktop/Result.py"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"route",
+			"pep",
+			" ",
+			"flash",
+			"config",
+			"1st",
+			"environ.get",
+			"slef",
+			"title"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 242.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 134.0
+	},
+	"output.git-init":
+	{
+		"height": 134.0
+	},
+	"output.git-pull":
+	{
+		"height": 134.0
+	},
+	"output.git-push":
+	{
+		"height": 134.0
+	},
+	"output.git-remote":
+	{
+		"height": 134.0
+	},
+	"pinned_build_system": "Packages/User/Python3.sublime-build",
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/Python3/mydict.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
